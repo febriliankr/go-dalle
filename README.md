@@ -14,13 +14,13 @@ package main
 import (
 	"context"
 	"fmt"
-	gogpt "github.com/sashabaranov/go-gpt3"
+	gogpt "github.com/febriliankr/go-dalle"
 )
 
 func main() {
 	c := godalle.NewClient("your token")
 	ctx := context.Background()
 
-    
+
 }
 ```
