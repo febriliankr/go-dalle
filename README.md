@@ -14,7 +14,7 @@ package main
 import (
 	"context"
 	"fmt"
-	gogpt "github.com/febriliankr/go-dalle"
+	godalle "github.com/febriliankr/go-dalle"
 )
 
 func main() {

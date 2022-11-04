@@ -15,7 +15,7 @@ func newTransport() *http.Client {
 	}
 }
 
-// Client is OpenAI GPT-3 API client.
+// Client is OpenAI DallE API client.
 type Client struct {
 	BaseURL    string
 	HTTPClient *http.Client
